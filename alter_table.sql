@@ -1,0 +1,3 @@
+ALTER TABLE prac
+ADD CONSTRAINT prac_pk PRIMARY KEY (id)
+/
