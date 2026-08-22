@@ -1,0 +1,5 @@
+insert into prac values (1,'harshil',21)
+insert into prac values (2,'akash',21)
+insert into prac values (3,'urmit',21)
+insert into prac values (4,'vatsal',21)
+insert into prac values (5,'hemanshu',21)
